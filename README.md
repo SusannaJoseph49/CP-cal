@@ -7,9 +7,9 @@ The contest calendar (with Leetcode random question generator) is a Chrome Exten
 It fetches the data on all the scheduled contests over various platforms (Codeforces, Codechef, Atcoder, Leetcode, Coding Ninja, HackerEarth, GeeksforGeeks and Topcoder) and provides the user with the date, time and duration of these contests in a consolidated manner.
 
 To help the users brush up on the Data science algorithms, a Leetcode random feature was implemented by web-scrapping Leetcode top 100 questions using Python and rendering using D3.
-<img src="ss3.png" alt="Alt text" width=50%>
-<img src="ss2.png" alt="Alt text" width= 50% >
-<img src="ss1.png" alt="Alt text" width= 50% >
+<img src="ss3.png" alt="Alt text" width=40%>
+<img src="ss2.png" alt="Alt text" width= 40% >
+<img src="ss1.png" alt="Alt text" width= 40% >
 ## Tech-Stack used :
 
   ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
